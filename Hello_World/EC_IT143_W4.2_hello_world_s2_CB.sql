@@ -1,0 +1,1 @@
+-- Step 2: I need to write a query that selects the string 'Hello World'.

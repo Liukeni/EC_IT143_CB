@@ -1,0 +1,1 @@
+-- Step 2: Join Luanda_Vendors and Vendor_Transactions, group by VendorName, and sum Amount_Kz.

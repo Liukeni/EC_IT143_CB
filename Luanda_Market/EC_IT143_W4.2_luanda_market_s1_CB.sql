@@ -1,0 +1,1 @@
+-- Step 1: What is the total transaction amount (in Kz) for each vendor?

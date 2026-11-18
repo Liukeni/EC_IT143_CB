@@ -1,0 +1,1 @@
+-- Step 2: I need to join Angolan_Teams and Angolan_Players, group by TeamName, and count PlayerID.
